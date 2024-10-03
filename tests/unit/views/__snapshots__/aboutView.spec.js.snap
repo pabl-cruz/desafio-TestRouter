@@ -1,6 +1,7 @@
-<script></script>
-<template>
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutView captura de contenido HTML en prueba y contrasta 1`] = `
 <h1>Sobre nosotros</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis viverra venenatis dolor. Aliquam felis dolor, commodo in ante eget, tempor maximus tellus. Donec semper malesuada nibh vitae scelerisque. Vestibulum nec ultrices ante, et elementum purus. Morbi non enim a erat ultricies pellentesque eget a ante. Phasellus malesuada vulputate dui, non placerat erat sagittis quis. Vestibulum sem quam, posuere vestibulum viverra id, tincidunt eu ipsum. Duis eu erat in nunc ultrices pretium vel vel augue. Duis et lorem at quam mollis tempus eu eget purus. Quisque at massa risus. Suspendisse rutrum quam elit, semper faucibus augue fermentum ac. Vestibulum eleifend vel massa in condimentum. Nullam sed consectetur odio, id luctus magna. Nullam commodo vel odio et imperdiet.</p>
 <p>Etiam euismod turpis et risus placerat pharetra. Praesent luctus ipsum a sapien interdum finibus. Morbi porta, massa porta suscipit tempor, purus urna tempus lacus, in efficitur nisi tellus eget sapien. Phasellus ut sapien non quam lobortis varius. Sed sed vehicula quam. Cras sed libero sagittis, luctus nibh at, laoreet lorem. Nam porta nunc non convallis pretium. Etiam vel turpis ut tellus commodo blandit quis quis odio. Phasellus vestibulum tortor non leo finibus varius. Pellentesque semper lacus malesuada nisl scelerisque vulputate. Vestibulum arcu est, tempus vel consequat vel, efficitur in justo. Vestibulum a lectus metus. Vestibulum eu augue fermentum, tincidunt ante eu, sodales nunc. Nullam commodo ex massa, vel faucibus sem pulvinar rutrum. Nam lobortis sem justo, quis hendrerit magna semper vel.</p>
-</template>
+`;

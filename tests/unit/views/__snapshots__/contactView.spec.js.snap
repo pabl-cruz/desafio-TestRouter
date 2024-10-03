@@ -1,0 +1,6 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactView captura de contenido HTML en prueba y contrasta 1`] = `
+<h1>Contacto</h1>
+<form><input type="text" name="nombre" placeholder="ingrese nombre"><input type="email" name="correo" placeholder="ingrese correo"><input type="submit" name="enviar" value="Enviar"></form>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostsView captura de contenido HTML en prueba y contrasta 1`] = `
+<div class="posts">
+  <h1>Vista de Posts</h1>
+  <ul>
+    <li>Post 1</li>
+    <li>Post 2</li>
+    <li>Post 3</li>
+    <li>Post 4</li>
+  </ul>
+</div>
+`;

@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`HomeView captura de contenido HTML en prueba 1`] = `
+exports[`HomeView captura de contenido HTML en prueba y contrasta 1`] = `
 <div class="home"><img alt="Vue logo" src="">
   <posts-view-stub></posts-view-stub>
 </div>
